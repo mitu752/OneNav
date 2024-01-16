@@ -26,28 +26,14 @@ description: 个人网址集
 ## 网址链接
 ################
 categories:
-  - category: Star Links
-    icon: fa-solid fa-star
-    links:
-      - title: 我的探针
-        logo: https://gh.ykwang.top/icon/svg/Home.svg
-        url: https://status.172769.xyz/
-        description: 我的探针
-      
-
-  - category: Proxy
-    hide_menu: true
-    icon: fa-solid fa-star
-    links:
-      - title: Cloudflare代理
-        logo: https://www.cloudflare.com/favicon.ico
-        url: https://proxy.172769.xyz/
-        description: github代理，用cf搭建
-      - title: GlaDOS
-        logo: https://crowded-coffee-wombat.faviconkit.com/glados.rocks/64
-        url: https://glados.space/landing/
-        description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
-
+  # - category: Star Links
+  #   icon: fa-solid fa-star
+  #   links:
+  #     - title: 我的探针
+  #       logo: https://gh.ykwang.top/icon/svg/Home.svg
+  #       url: https://status.172769.xyz/
+  #       description: 我的探针
+  
   - category: 个人站点
     icon: fa-solid fa-laptop
     links:
@@ -72,6 +58,21 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/status.172769.xyz/64
         url: https://status.172769.xyz/
         description: 我的探针及网站监控
+
+  - category: Proxy
+    hide_menu: true
+    icon: fa-solid fa-star
+    links:
+      - title: Cloudflare代理
+        logo: https://www.cloudflare.com/favicon.ico
+        url: https://proxy.172769.xyz/
+        description: github代理，用cf搭建
+      - title: GlaDOS
+        logo: https://crowded-coffee-wombat.faviconkit.com/glados.rocks/64
+        url: https://glados.space/landing/
+        description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
+
+  
 
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
