@@ -43,7 +43,7 @@ categories:
         description: 调用API Key的ChatGPT网页应用, 部署于Vercel
       - title: Pandora
         logo: https://crowded-coffee-wombat.faviconkit.com/node.173769.xyz/64
-        url: https://node.173769.xyz/
+        url: https://node.172769.xyz/
         description: ChatGPT镜像站
       - title: pandoranext-tokenstool
         logo: https://crowded-coffee-wombat.faviconkit.com/tokens.172769.xyz/64
