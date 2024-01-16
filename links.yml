@@ -3,7 +3,7 @@
 ## 页面配置
 ################
 # 作者名称
-user_name: ykwang
+user_name: noob
 # 网站名称
 site_name: OneNav
 # 网站Favicon
@@ -20,12 +20,8 @@ logo: fa-solid fa-compass
 keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
-# 个人主页
-home_url: https://www.ykwang.top/
-# 个人邮箱
-email: email@ykwang.top
-# GitHub链接
-github_url: https://github.com/MadisonWirtanen
+
+
 ################
 ## 网址链接
 ################
@@ -33,22 +29,11 @@ categories:
   - category: Star Links
     icon: fa-solid fa-star
     links:
-      - title: ykwangの主页
+      - title: 我的探针
         logo: https://gh.ykwang.top/icon/svg/Home.svg
-        url: https://www.ykwang.top/
-        description: 我的主页, 欢迎访问
-      - title: ykwangの博客
-        logo: https://gh.ykwang.top/icon/svg/Blog.svg
-        url: https://blog.ykwang.top/
-        description: 我的博客, 欢迎留言
-      - title: ykwangの监测站
-        logo: https://gh.ykwang.top/icon/svg/CheckCircle.svg
-        url: https://monitor.ykwang.top/
-        description: 监测网站运行状态
-      - title: Email
-        logo: https://gh.ykwang.top/icon/svg/Envelope.svg
-        url: mailto:email@ykwang.top
-        description: 点击即可通过邮件联系我
+        url: https://status.172769.xyz/
+        description: 我的探针
+      
 
   - category: Proxy
     hide_menu: true
@@ -56,48 +41,37 @@ categories:
     links:
       - title: Cloudflare代理
         logo: https://www.cloudflare.com/favicon.ico
-        url: https://proxy.ykwang.top/
-        description: 输入目标网址即可访问, 对Wikipedia等站有优化, 其中Google不定时受限
-      - title: Vercel代理
-        logo: https://vercel.com/favicon.ico
-        url: https://www.proxies.dynv6.net/URL
-        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
+        url: https://proxy.172769.xyz/
+        description: github代理，用cf搭建
       - title: GlaDOS
         logo: https://crowded-coffee-wombat.faviconkit.com/glados.rocks/64
-        url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
+        url: https://glados.space/landing/
         description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
 
   - category: 个人站点
     icon: fa-solid fa-laptop
     links:
       - title: ChatGPT-Next-Web
-        logo: https://crowded-coffee-wombat.faviconkit.com/gpt.ykwang.top/64
-        url: https://gpt.ykwang.top/
+        logo: https://crowded-coffee-wombat.faviconkit.com/chat.172769.xyz/64
+        url: https://chat.172769.xyz/
         description: 调用API Key的ChatGPT网页应用, 部署于Vercel
-      - title: Ask2End
-        logo: https://crowded-coffee-wombat.faviconkit.com/ask.ykwang.top/64
-        url: https://ask.ykwang.top/
-        description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.top/64
-        url: https://pandora.ykwang.top/
-        description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
-      - title: BingAI
-        logo: https://crowded-coffee-wombat.faviconkit.com/bingai.ykwang.top/64
-        url: https://bingai.ykwang.top/
-        description: NewBing镜像站, 部署于Cloudflare Workers
-      - title: Alist
-        logo: https://crowded-coffee-wombat.faviconkit.com/alist.ykwang.top/64
-        url: https://alist.ykwang.top/
-        description: 个人影音库, 部署于本地, Cloudflare代理
-      - title: Reader
-        logo: https://crowded-coffee-wombat.faviconkit.com/reader3.ykwang.top/64
-        url: https://reader.ykwang.top/
-        description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
-      - title: SPlayer
-        logo: https://crowded-coffee-wombat.faviconkit.com/music.ykwang.top/64
-        url: https://music.ykwang.top/
-        description: 网易云音乐解灰, 部署于Koyeb
+        logo: https://crowded-coffee-wombat.faviconkit.com/node.173769.xyz/64
+        url: https://node.173769.xyz/
+        description: ChatGPT镜像站
+      - title: pandoranext-tokenstool
+        logo: https://crowded-coffee-wombat.faviconkit.com/tokens.172769.xyz/64
+        url: https://tokens.172769.xyz/
+        description: pandora-token集合工具，copilot转chatgpt4-api
+      - title: oneapi
+        logo: https://crowded-coffee-wombat.faviconkit.com/api.172769.xyz/64
+        url: https://api.172769.xyz/
+        description: chatgpt-api站点
+
+      - title: serverstatus
+        logo: https://crowded-coffee-wombat.faviconkit.com/status.172769.xyz/64
+        url: https://status.172769.xyz/
+        description: 我的探针及网站监控
 
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
