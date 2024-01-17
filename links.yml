@@ -41,6 +41,10 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/chat.172769.xyz/64
         url: https://chat.172769.xyz/
         description: 调用API Key的ChatGPT网页应用, 部署于Vercel
+      - title: lobechat
+        logo: https://crowded-coffee-wombat.faviconkit.com/lobe.172769.xyz/64
+        url: https://lobe.172769.xyz/
+        description: 调用API Key的ChatGPT网页应用, 部署于Vercel
       - title: Pandora
         logo: https://crowded-coffee-wombat.faviconkit.com/node.173769.xyz/64
         url: https://node.172769.xyz/
